@@ -32,6 +32,26 @@
 		},
 		{
 			"id": "4",
+			"name": "Mr. Liermann",
+			"aboutMe": "information coming...",
+			"position": "Assistant Instructor",
+			"email": "",
+			"calendly": "",
+			"pic1": "",
+			"pic2": ""
+		},
+		{
+			"id": "5",
+			"name": "Mrs. Ginther",
+			"aboutMe": "information coming...",
+			"email": "",
+			"position": "Assistant Instructor",
+			"calendly": "",
+			"pic1": "",
+			"pic2": ""
+		},
+		{
+			"id": "6",
 			"name": "Ms. Young",
 			"aboutMe": "Hi! I'm a 3rd Degree Black Belt here at Exclusive Martial Arts. Through my 17 years of training I have discovered that teaching is my passion. I am currently a student at Metropolitian State Unviversity of Denver getting my degree in business. My family, dogs, and friends are the most important things in my life besides karate!   ",
 			"email": "kayleeyoung222@gmail.com",
